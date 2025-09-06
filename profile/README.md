@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Ovation Logo]([https://via.placeholder.com/200x80/6366f1/ffffff?text=OVATION](https://avatars.githubusercontent.com/u/148829432?s=200&v=4))
+![Ovation Logo]([https://avatars.githubusercontent.com/u/148829432?s=200&v=4])
 
 **Empowering NFT collectors to build, discover, and connect in the digital asset ecosystem**
 
