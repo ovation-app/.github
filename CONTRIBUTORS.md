@@ -15,23 +15,23 @@ We would like to thank all the people who have contributed to the Ovation projec
 ### Frontend Contributors
 *Contributors to [ovation-mvp](https://github.com/ovation-app/ovation-mvp)*
 
-**[Emmanuel G Kingsley](https://github.com/Greg-Soap)**
-**[Evbadoloyi Collins Eguasa](https://github.com/collinstb01)**
-**[Xesca Alabart](https://github.com/HelloXesca)**
+- **[Emmanuel G Kingsley](https://github.com/Greg-Soap)**
+- **[Evbadoloyi Collins Eguasa](https://github.com/collinstb01)**
+- **[Xesca Alabart](https://github.com/HelloXesca)**
 
 ### Backend Contributors
 *Contributors to [ovation-backend](https://github.com/ovation-app/ovation-backend)*
 
-**[AYO Ajayi](https://github.com/Ayo-mi)**
-**[Xesca Alabart](https://github.com/HelloXesca)**
+- **[AYO Ajayi](https://github.com/Ayo-mi)**
+- **[Xesca Alabart](https://github.com/HelloXesca)**
 
 ### Documentation Contributors
 *Contributors who have improved project documentation*
 
-**[AYO Ajayi](https://github.com/Ayo-mi)**
-**[Emmanuel G Kingsley](https://github.com/Greg-Soap)**
-**[Evbadoloyi Collins Eguasa](https://github.com/collinstb01)**
-**[Xesca Alabart](https://github.com/HelloXesca)**
+- **[AYO Ajayi](https://github.com/Ayo-mi)**
+- **[Emmanuel G Kingsley](https://github.com/Greg-Soap)**
+- **[Evbadoloyi Collins Eguasa](https://github.com/collinstb01)**
+- **[Xesca Alabart](https://github.com/HelloXesca)**
 
 ### Design Contributors
 *Contributors who have worked on UI/UX design*
@@ -41,15 +41,15 @@ We would like to thank all the people who have contributed to the Ovation projec
 ### Testing Contributors
 *Contributors who have improved test coverage and quality*
 
-**[AyeItsMalcolm](https://github.com/AyeItsMalcolm)**
-**[Xesca Alabart](https://github.com/HelloXesca)**
+- **[AyeItsMalcolm](https://github.com/AyeItsMalcolm)**
+- **[Xesca Alabart](https://github.com/HelloXesca)**
 
 ### Infrastructure Contributors
 *Contributors who have worked on DevOps, CI/CD, and infrastructure*
 
-**[AYO Ajayi](https://github.com/Ayo-mi)**
-**[Emmanuel G Kingsley](https://github.com/Greg-Soap)**
-**[Xesca Alabart](https://github.com/HelloXesca)**
+- **[AYO Ajayi](https://github.com/Ayo-mi)**
+- **[Emmanuel G Kingsley](https://github.com/Greg-Soap)**
+- **[Xesca Alabart](https://github.com/HelloXesca)**
 
 <!-- ## 🎯 How to Add Contributors
 
