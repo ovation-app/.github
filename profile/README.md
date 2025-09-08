@@ -189,12 +189,12 @@ We welcome contributions from the community! Here's how you can get involved:
    ```
 
 4. **Make Your Changes**
-   - Follow our [coding standards](https://github.com/ovation-app/ovation-backend/blob/main/CONTRIBUTING.md#coding-standards)
+   - Follow our [coding standards](https://github.com/ovation-app/.github/blob/main/CONTRIBUTING.md)
    - Write tests for new functionality
    - Update documentation
 
 5. **Submit a Pull Request**
-   - Use our [PR template](https://github.com/ovation-app/ovation-backend/blob/main/CONTRIBUTING.md#pull-request-process)
+   - Use our [PR template](https://github.com/ovation-app/.github/blob/main/CONTRIBUTING.md)
    - Link related issues
    - Ensure all tests pass
 
@@ -224,7 +224,7 @@ Looking for your first contribution? Check out these beginner-friendly areas:
 - **GitHub Issues**: Bug reports and feature requests
 - **GitHub Discussions**: General discussions and questions
 - **Discord**: Real-time community chat (coming soon)
-- **Email**: [contact@ovation.network](mailto:contact@ovation.network)
+- **Email**: [hello@ovation.network](mailto:hello@ovation.network)
 
 ### 🎉 Recognition
 
@@ -281,6 +281,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [🚀 Get Started with Frontend](https://github.com/ovation-app/ovation-mvp) | [⚙️ Get Started with Backend](https://github.com/ovation-app/ovation-backend)
 
-[📧 Contact Us](mailto:contact@ovation.network) | [🐛 Report Issues](https://github.com/ovation-app/ovation-backend/issues) | [💬 Join Discussion](https://github.com/ovation-app/ovation-backend/discussions)
+[📧 Contact Us](mailto:hello@ovation.network) | [🐛 Report Issues](https://github.com/ovation-app/ovation-backend/issues) | [💬 Join Discussion](https://github.com/ovation-app/ovation-backend/discussions)
 
 </div>

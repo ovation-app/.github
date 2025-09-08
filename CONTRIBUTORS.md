@@ -17,6 +17,7 @@ We would like to thank all the people who have contributed to the Ovation projec
 
 - **[Emmanuel G Kingsley](https://github.com/Greg-Soap)**
 - **[Evbadoloyi Collins Eguasa](https://github.com/collinstb01)**
+- **[AYO Ajayi](https://github.com/Ayo-mi)**
 - **[Xesca Alabart](https://github.com/HelloXesca)**
 
 ### Backend Contributors
