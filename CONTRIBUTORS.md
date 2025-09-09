@@ -37,13 +37,14 @@ We would like to thank all the people who have contributed to the Ovation projec
 ### Design Contributors
 *Contributors who have worked on UI/UX design*
 
-<!-- Add design contributors here as they contribute -->
+- **[Deyemigram](https://github.com/deyemigram)**
 
 ### Testing Contributors
 *Contributors who have improved test coverage and quality*
 
 - **[AyeItsMalcolm](https://github.com/AyeItsMalcolm)**
 - **[Xesca Alabart](https://github.com/HelloXesca)**
+- **[Maanav Porwal](https://github.com/mjporwal4)**
 
 ### Infrastructure Contributors
 *Contributors who have worked on DevOps, CI/CD, and infrastructure*
