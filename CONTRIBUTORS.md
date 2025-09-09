@@ -42,6 +42,7 @@ We would like to thank all the people who have contributed to the Ovation projec
 ### Testing Contributors
 *Contributors who have improved test coverage and quality*
 
+- **[Jack Bliss](https://github.com/jack-bliss-controlshield)**
 - **[AyeItsMalcolm](https://github.com/AyeItsMalcolm)**
 - **[Xesca Alabart](https://github.com/HelloXesca)**
 - **[Maanav Porwal](https://github.com/mjporwal4)**
