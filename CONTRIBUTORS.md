@@ -38,6 +38,8 @@ We would like to thank all the people who have contributed to the Ovation projec
 *Contributors who have worked on UI/UX design*
 
 - **[Deyemigram](https://github.com/deyemigram)**
+- **[Jack Bliss](https://github.com/jack-bliss-controlshield)**
+- **[Maanav Porwal](https://github.com/mjporwal4)**
 
 ### Testing Contributors
 *Contributors who have improved test coverage and quality*
