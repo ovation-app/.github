@@ -6,8 +6,8 @@
 
 **Empowering NFT collectors to build, discover, and connect in the digital asset ecosystem**
 
-[![Frontend Repository](https://img.shields.io/badge/Frontend-ovation--mvp-blue?style=for-the-badge&logo=react)](https://github.com/ovation-app/ovation-mvp)
-[![Backend Repository](https://img.shields.io/badge/Backend-ovation--backend-green?style=for-the-badge&logo=.net)](https://github.com/ovation-app/ovation-backend)
+[![Frontend Repository](https://img.shields.io/badge/Frontend-ovation--mvp-blue?style=for-the-badge&logo=react)](https://github.com/ovation-app/ovation-network-open-frontend)
+[![Backend Repository](https://img.shields.io/badge/Backend-ovation--backend-green?style=for-the-badge&logo=.net)](https://github.com/ovation-app/ovation-network-open-backend)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
@@ -30,7 +30,7 @@ We're building the future of NFT social interaction by creating a unified platfo
 
 Ovation consists of two main components:
 
-### 🎨 Frontend - [ovation-mvp](https://github.com/ovation-app/ovation-mvp)
+### 🎨 Frontend - [ovation-mvp](https://github.com/ovation-app/ovation-network-open-frontend)
 **Modern React-based web application**
 
 - **Framework**: Next.js 14 with App Router
@@ -40,7 +40,7 @@ Ovation consists of two main components:
 - **Authentication**: Multi-provider (Google, X, Web3 wallets)
 - **Blockchain Integration**: Multi-chain wallet support (Ethereum, Solana, Tezos, TON, Archway, Stargaze)
 
-### ⚙️ Backend - [ovation-backend](https://github.com/ovation-app/ovation-backend)
+### ⚙️ Backend - [ovation-backend](https://github.com/ovation-app/ovation-network-open-backend)
 **Robust ASP.NET Core API**
 
 - **Framework**: ASP.NET Core 8.0
@@ -117,23 +117,23 @@ ASP.NET Core 8.0
 ## 📚 Documentation & Resources
 
 ### 📖 Getting Started
-- **[Frontend Setup Guide](https://github.com/ovation-app/ovation-mvp#getting-started)** - React/Next.js development setup
-- **[Backend Installation Guide](https://github.com/ovation-app/ovation-backend/blob/main/Docs/INSTALLATION.md)** - ASP.NET Core setup
-- **[Architecture Overview](https://github.com/ovation-app/ovation-backend/blob/main/Docs/ARCHITECTURE.md)** - System design and patterns
-- **[API Documentation](https://github.com/ovation-app/ovation-backend/blob/main/Docs/API_DOCUMENTATION.md)** - Complete API reference
+- **[Frontend Setup Guide](https://github.com/ovation-app/ovation-network-open-frontend#getting-started)** - React/Next.js development setup
+- **[Backend Installation Guide](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/INSTALLATION.md)** - ASP.NET Core setup
+- **[Architecture Overview](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/ARCHITECTURE.md)** - System design and patterns
+- **[API Documentation](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/API_DOCUMENTATION.md)** - Complete API reference
 
 ### 🔧 Development Resources
-- **[Environment Configuration](https://github.com/ovation-app/ovation-backend/blob/main/Docs/ENVIRONMENT_CONFIGURATION.md)** - Setup environment variables
-- **[Docker Setup](https://github.com/ovation-app/ovation-backend/blob/main/Docs/DOCKER_SETUP.md)** - Containerized development
-- **[Provider Integrations](https://github.com/ovation-app/ovation-backend/blob/main/Docs/PROVIDER_INTEGRATIONS.md)** - External API integrations
+- **[Environment Configuration](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/ENVIRONMENT_CONFIGURATION.md)** - Setup environment variables
+- **[Docker Setup](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/DOCKER_SETUP.md)** - Containerized development
+- **[Provider Integrations](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/PROVIDER_INTEGRATIONS.md)** - External API integrations
 
 ### 📋 Architecture Decision Records (ADRs)
-- **[ADR-0001](https://github.com/ovation-app/ovation-backend/blob/main/Docs/ADR/0001-use-of-clean-architecture.md)** - Clean Architecture
-- **[ADR-0002](https://github.com/ovation-app/ovation-backend/blob/main/Docs/ADR/0002-use-of-mediatr-for-application-layer-communication.md)** - MediatR for CQRS
-- **[ADR-0003](https://github.com/ovation-app/ovation-backend/blob/main/Docs/ADR/0003-dependency-injection-via-built-in-net-di-container.md)** - Dependency Injection
-- **[ADR-0004](https://github.com/ovation-app/ovation-backend/blob/main/Docs/ADR/0004-entity-framework-core-for-orm.md)** - Entity Framework Core
-- **[ADR-0005](https://github.com/ovation-app/ovation-backend/blob/main/Docs/ADR/0005-use-of-fluentvalidation-for-input-validation.md)** - FluentValidation
-- **[ADR-0006-0010](https://github.com/ovation-app/ovation-backend/blob/main/Docs/ADR/)** - Multi-chain NFT API integrations
+- **[ADR-0001](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/ADR/0001-use-of-clean-architecture.md)** - Clean Architecture
+- **[ADR-0002](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/ADR/0002-use-of-mediatr-for-application-layer-communication.md)** - MediatR for CQRS
+- **[ADR-0003](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/ADR/0003-dependency-injection-via-built-in-net-di-container.md)** - Dependency Injection
+- **[ADR-0004](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/ADR/0004-entity-framework-core-for-orm.md)** - Entity Framework Core
+- **[ADR-0005](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/ADR/0005-use-of-fluentvalidation-for-input-validation.md)** - FluentValidation
+- **[ADR-0006-0010](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/ADR/)** - Multi-chain NFT API integrations
 
 ## 🤝 Contributing
 
@@ -180,8 +180,8 @@ We welcome contributions from the community! Here's how you can get involved:
    ```
 
 2. **Set Up Development Environment**
-   - Follow the [Frontend Setup Guide](https://github.com/ovation-app/ovation-mvp#getting-started)
-   - Follow the [Backend Installation Guide](https://github.com/ovation-app/ovation-backend/blob/main/Docs/INSTALLATION.md)
+   - Follow the [Frontend Setup Guide](https://github.com/ovation-app/ovation-network-open-frontend#getting-started)
+   - Follow the [Backend Installation Guide](https://github.com/ovation-app/ovation-network-open-backend/blob/main/Docs/INSTALLATION.md)
 
 3. **Create a Branch**
    ```bash
@@ -279,8 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ready to build the future of NFT social interaction?**
 
-[🚀 Get Started with Frontend](https://github.com/ovation-app/ovation-mvp) | [⚙️ Get Started with Backend](https://github.com/ovation-app/ovation-backend)
+[🚀 Get Started with Frontend](https://github.com/ovation-app/ovation-network-open-frontend) | [⚙️ Get Started with Backend](https://github.com/ovation-app/ovation-network-open-backend)
 
-[📧 Contact Us](mailto:hello@ovation.network) | [🐛 Report Issues](https://github.com/ovation-app/ovation-backend/issues) | [💬 Join Discussion](https://github.com/ovation-app/ovation-backend/discussions)
+[📧 Contact Us](mailto:hello@ovation.network) | [🐛 Report Issues](https://github.com/ovation-app/ovation-network-open-backend/issues) | [💬 Join Discussion](https://github.com/ovation-app/ovation-network-open-backend/discussions)
 
 </div>
