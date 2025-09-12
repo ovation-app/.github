@@ -6,7 +6,7 @@
 
 **Empowering NFT collectors to build, discover, and connect in the digital asset ecosystem**
 
-[![Frontend Repository](https://img.shields.io/badge/Frontend-ovation--mvp-blue?style=for-the-badge&logo=react)](https://github.com/ovation-app/ovation-network-open-frontend)
+[![Frontend Repository](https://img.shields.io/badge/Frontend-ovation--frontend-blue?style=for-the-badge&logo=react)](https://github.com/ovation-app/ovation-network-open-frontend)
 [![Backend Repository](https://img.shields.io/badge/Backend-ovation--backend-green?style=for-the-badge&logo=.net)](https://github.com/ovation-app/ovation-network-open-backend)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
