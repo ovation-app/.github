@@ -30,7 +30,7 @@ We're building the future of NFT social interaction by creating a unified platfo
 
 Ovation consists of two main components:
 
-### 🎨 Frontend - [ovation-mvp](https://github.com/ovation-app/ovation-network-open-frontend)
+### 🎨 Frontend - [ovation-frontend](https://github.com/ovation-app/ovation-network-open-frontend)
 **Modern React-based web application**
 
 - **Framework**: Next.js 14 with App Router
